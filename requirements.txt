@@ -1,0 +1,8 @@
+# 《大风吹》运行时依赖
+# 贴图：Pillow（缺失时游戏自动退回矢量几何，仍可运行）
+Pillow>=9.0
+# 音频：pygame（缺失时 Windows 用 waveOut，含多首 BGM 随机播放；再缺失退化为 winsound 音效/无 BGM）
+pygame>=2.1
+# 可选：导入 MP3/M4A/OGG/FLAC（玩家自定义或 install_builtin_bgm.py）需要 PyAV。
+# 体积较大，按需安装：python -m pip install av
+# av>=12.0

@@ -1,0 +1,580 @@
+{
+  "version": 1,
+  "generated_by": "tools/art/bake_crayon_ui.py",
+  "font": "ZCOOL KuaiLe (OFL) + Patrick Hand (OFL)",
+  "strength": 0.8,
+  "scale": 2,
+  "assets": {
+    "heart_full": {
+      "file": "heart_full.png",
+      "w": 84,
+      "h": 77,
+      "kind": "shape",
+      "anchor": "center"
+    },
+    "heart_full_b": {
+      "file": "heart_full_b.png",
+      "w": 84,
+      "h": 77,
+      "kind": "shape",
+      "anchor": "center"
+    },
+    "heart_full_c": {
+      "file": "heart_full_c.png",
+      "w": 85,
+      "h": 77,
+      "kind": "shape",
+      "anchor": "center"
+    },
+    "heart_empty": {
+      "file": "heart_empty.png",
+      "w": 83,
+      "h": 77,
+      "kind": "shape",
+      "anchor": "center"
+    },
+    "heart_empty_b": {
+      "file": "heart_empty_b.png",
+      "w": 82,
+      "h": 77,
+      "kind": "shape",
+      "anchor": "center"
+    },
+    "heart_empty_c": {
+      "file": "heart_empty_c.png",
+      "w": 82,
+      "h": 77,
+      "kind": "shape",
+      "anchor": "center"
+    },
+    "pause": {
+      "file": "pause.png",
+      "w": 82,
+      "h": 82,
+      "kind": "shape",
+      "anchor": "center"
+    },
+    "pause_hover": {
+      "file": "pause_hover.png",
+      "w": 82,
+      "h": 82,
+      "kind": "shape",
+      "anchor": "center"
+    },
+    "compass_base": {
+      "file": "compass_base.png",
+      "w": 192,
+      "h": 192,
+      "kind": "shape",
+      "anchor": "center"
+    },
+    "plank_1": {
+      "file": "plank_1.png",
+      "w": 448,
+      "h": 102,
+      "kind": "shape",
+      "anchor": "center"
+    },
+    "plank_2": {
+      "file": "plank_2.png",
+      "w": 448,
+      "h": 102,
+      "kind": "shape",
+      "anchor": "center"
+    },
+    "plank_3": {
+      "file": "plank_3.png",
+      "w": 448,
+      "h": 102,
+      "kind": "shape",
+      "anchor": "center"
+    },
+    "plank_4": {
+      "file": "plank_4.png",
+      "w": 448,
+      "h": 102,
+      "kind": "shape",
+      "anchor": "center"
+    },
+    "plank_primary": {
+      "file": "plank_primary.png",
+      "w": 448,
+      "h": 102,
+      "kind": "shape",
+      "anchor": "center"
+    },
+    "star": {
+      "file": "star.png",
+      "w": 52,
+      "h": 52,
+      "kind": "shape",
+      "anchor": "center"
+    },
+    "god_badge": {
+      "file": "god_badge.png",
+      "w": 545,
+      "h": 52,
+      "kind": "shape",
+      "anchor": "center"
+    },
+    "start_title": {
+      "file": "start_title.png",
+      "w": 633,
+      "h": 271,
+      "kind": "shape",
+      "anchor": "center"
+    },
+    "compass_arrow_e": {
+      "file": "compass_arrow_e.png",
+      "w": 192,
+      "h": 192,
+      "kind": "shape",
+      "anchor": "center"
+    },
+    "compass_arrow_se": {
+      "file": "compass_arrow_se.png",
+      "w": 192,
+      "h": 192,
+      "kind": "shape",
+      "anchor": "center"
+    },
+    "compass_arrow_s": {
+      "file": "compass_arrow_s.png",
+      "w": 192,
+      "h": 192,
+      "kind": "shape",
+      "anchor": "center"
+    },
+    "compass_arrow_sw": {
+      "file": "compass_arrow_sw.png",
+      "w": 192,
+      "h": 192,
+      "kind": "shape",
+      "anchor": "center"
+    },
+    "compass_arrow_w": {
+      "file": "compass_arrow_w.png",
+      "w": 192,
+      "h": 192,
+      "kind": "shape",
+      "anchor": "center"
+    },
+    "compass_arrow_nw": {
+      "file": "compass_arrow_nw.png",
+      "w": 192,
+      "h": 192,
+      "kind": "shape",
+      "anchor": "center"
+    },
+    "compass_arrow_n": {
+      "file": "compass_arrow_n.png",
+      "w": 192,
+      "h": 192,
+      "kind": "shape",
+      "anchor": "center"
+    },
+    "compass_arrow_ne": {
+      "file": "compass_arrow_ne.png",
+      "w": 192,
+      "h": 192,
+      "kind": "shape",
+      "anchor": "center"
+    },
+    "timer_label": {
+      "file": "timer_label.png",
+      "w": 90,
+      "h": 46,
+      "kind": "text",
+      "cell": null,
+      "text": "存活"
+    },
+    "digit_0": {
+      "file": "digit_0.png",
+      "w": 36,
+      "h": 64,
+      "kind": "text",
+      "cell": [
+        18,
+        32
+      ],
+      "text": "0"
+    },
+    "digit_1": {
+      "file": "digit_1.png",
+      "w": 36,
+      "h": 64,
+      "kind": "text",
+      "cell": [
+        18,
+        32
+      ],
+      "text": "1"
+    },
+    "digit_2": {
+      "file": "digit_2.png",
+      "w": 36,
+      "h": 64,
+      "kind": "text",
+      "cell": [
+        18,
+        32
+      ],
+      "text": "2"
+    },
+    "digit_3": {
+      "file": "digit_3.png",
+      "w": 36,
+      "h": 64,
+      "kind": "text",
+      "cell": [
+        18,
+        32
+      ],
+      "text": "3"
+    },
+    "digit_4": {
+      "file": "digit_4.png",
+      "w": 36,
+      "h": 64,
+      "kind": "text",
+      "cell": [
+        18,
+        32
+      ],
+      "text": "4"
+    },
+    "digit_5": {
+      "file": "digit_5.png",
+      "w": 36,
+      "h": 64,
+      "kind": "text",
+      "cell": [
+        18,
+        32
+      ],
+      "text": "5"
+    },
+    "digit_6": {
+      "file": "digit_6.png",
+      "w": 36,
+      "h": 64,
+      "kind": "text",
+      "cell": [
+        18,
+        32
+      ],
+      "text": "6"
+    },
+    "digit_7": {
+      "file": "digit_7.png",
+      "w": 36,
+      "h": 64,
+      "kind": "text",
+      "cell": [
+        18,
+        32
+      ],
+      "text": "7"
+    },
+    "digit_8": {
+      "file": "digit_8.png",
+      "w": 36,
+      "h": 64,
+      "kind": "text",
+      "cell": [
+        18,
+        32
+      ],
+      "text": "8"
+    },
+    "digit_9": {
+      "file": "digit_9.png",
+      "w": 36,
+      "h": 64,
+      "kind": "text",
+      "cell": [
+        18,
+        32
+      ],
+      "text": "9"
+    },
+    "digit_dot": {
+      "file": "digit_dot.png",
+      "w": 12,
+      "h": 64,
+      "kind": "text",
+      "cell": [
+        6,
+        32
+      ],
+      "text": "."
+    },
+    "digit_s": {
+      "file": "digit_s.png",
+      "w": 30,
+      "h": 64,
+      "kind": "text",
+      "cell": [
+        15,
+        32
+      ],
+      "text": "s"
+    },
+    "hint": {
+      "file": "hint.png",
+      "w": 1348,
+      "h": 44,
+      "kind": "text",
+      "cell": null,
+      "text": "WASD / 方向键移动 · 顶住风 · G 上帝模式 · M 静音 · R 重新开始"
+    },
+    "wind_e": {
+      "file": "wind_e.png",
+      "w": 97,
+      "h": 49,
+      "kind": "text",
+      "cell": null,
+      "text": "东风"
+    },
+    "wind_se": {
+      "file": "wind_se.png",
+      "w": 146,
+      "h": 49,
+      "kind": "text",
+      "cell": null,
+      "text": "东南风"
+    },
+    "wind_s": {
+      "file": "wind_s.png",
+      "w": 98,
+      "h": 48,
+      "kind": "text",
+      "cell": null,
+      "text": "南风"
+    },
+    "wind_sw": {
+      "file": "wind_sw.png",
+      "w": 142,
+      "h": 49,
+      "kind": "text",
+      "cell": null,
+      "text": "西南风"
+    },
+    "wind_w": {
+      "file": "wind_w.png",
+      "w": 93,
+      "h": 49,
+      "kind": "text",
+      "cell": null,
+      "text": "西风"
+    },
+    "wind_nw": {
+      "file": "wind_nw.png",
+      "w": 141,
+      "h": 47,
+      "kind": "text",
+      "cell": null,
+      "text": "西北风"
+    },
+    "wind_n": {
+      "file": "wind_n.png",
+      "w": 95,
+      "h": 47,
+      "kind": "text",
+      "cell": null,
+      "text": "北风"
+    },
+    "wind_ne": {
+      "file": "wind_ne.png",
+      "w": 145,
+      "h": 49,
+      "kind": "text",
+      "cell": null,
+      "text": "东北风"
+    },
+    "pause_title": {
+      "file": "pause_title.png",
+      "w": 578,
+      "h": 142,
+      "kind": "text",
+      "cell": null,
+      "text": "游戏暂停"
+    },
+    "btn_continue": {
+      "file": "btn_continue.png",
+      "w": 208,
+      "h": 52,
+      "kind": "text",
+      "cell": null,
+      "text": "继续游戏"
+    },
+    "btn_restart": {
+      "file": "btn_restart.png",
+      "w": 207,
+      "h": 51,
+      "kind": "text",
+      "cell": null,
+      "text": "重新开始"
+    },
+    "btn_settings": {
+      "file": "btn_settings.png",
+      "w": 102,
+      "h": 52,
+      "kind": "text",
+      "cell": null,
+      "text": "设置"
+    },
+    "btn_quit": {
+      "file": "btn_quit.png",
+      "w": 207,
+      "h": 51,
+      "kind": "text",
+      "cell": null,
+      "text": "退出游戏"
+    },
+    "btn_back": {
+      "file": "btn_back.png",
+      "w": 99,
+      "h": 49,
+      "kind": "text",
+      "cell": null,
+      "text": "返回"
+    },
+    "countdown_1": {
+      "file": "countdown_1.png",
+      "w": 105,
+      "h": 214,
+      "kind": "text",
+      "cell": null,
+      "text": "1"
+    },
+    "countdown_2": {
+      "file": "countdown_2.png",
+      "w": 145,
+      "h": 216,
+      "kind": "text",
+      "cell": null,
+      "text": "2"
+    },
+    "countdown_3": {
+      "file": "countdown_3.png",
+      "w": 130,
+      "h": 214,
+      "kind": "text",
+      "cell": null,
+      "text": "3"
+    },
+    "countdown_suffix": {
+      "file": "countdown_suffix.png",
+      "w": 312,
+      "h": 52,
+      "kind": "text",
+      "cell": null,
+      "text": "秒后回到游戏"
+    },
+    "settings_title": {
+      "file": "settings_title.png",
+      "w": 281,
+      "h": 140,
+      "kind": "text",
+      "cell": null,
+      "text": "设置"
+    },
+    "settings_hint": {
+      "file": "settings_hint.png",
+      "w": 630,
+      "h": 41,
+      "kind": "text",
+      "cell": null,
+      "text": "设置功能尚未实现，将在后续版本提供"
+    },
+    "pause_hint": {
+      "file": "pause_hint.png",
+      "w": 489,
+      "h": 39,
+      "kind": "text",
+      "cell": null,
+      "text": "Esc 继续游戏 · R 重新开始"
+    },
+    "over_title": {
+      "file": "over_title.png",
+      "w": 570,
+      "h": 140,
+      "kind": "text",
+      "cell": null,
+      "text": "游戏结束"
+    },
+    "over_reason_blown": {
+      "file": "over_reason_blown.png",
+      "w": 257,
+      "h": 52,
+      "kind": "text",
+      "cell": null,
+      "text": "被吹出窗口"
+    },
+    "over_reason_hearts": {
+      "file": "over_reason_hearts.png",
+      "w": 207,
+      "h": 55,
+      "kind": "text",
+      "cell": null,
+      "text": "血量归零"
+    },
+    "score_label": {
+      "file": "score_label.png",
+      "w": 209,
+      "h": 51,
+      "kind": "text",
+      "cell": null,
+      "text": "本局得分"
+    },
+    "score_unit": {
+      "file": "score_unit.png",
+      "w": 52,
+      "h": 49,
+      "kind": "text",
+      "cell": null,
+      "text": "秒"
+    },
+    "over_hint": {
+      "file": "over_hint.png",
+      "w": 353,
+      "h": 41,
+      "kind": "text",
+      "cell": null,
+      "text": "按 R 也可重新开始"
+    },
+    "start_btn_start": {
+      "file": "start_btn_start.png",
+      "w": 249,
+      "h": 62,
+      "kind": "text",
+      "cell": null,
+      "text": "开始游戏"
+    },
+    "start_btn_custom": {
+      "file": "start_btn_custom.png",
+      "w": 179,
+      "h": 61,
+      "kind": "text",
+      "cell": null,
+      "text": "自定义"
+    },
+    "start_btn_quit": {
+      "file": "start_btn_quit.png",
+      "w": 120,
+      "h": 60,
+      "kind": "text",
+      "cell": null,
+      "text": "退出"
+    },
+    "start_hint": {
+      "file": "start_hint.png",
+      "w": 350,
+      "h": 39,
+      "kind": "text",
+      "cell": null,
+      "text": "回车 / 空格 开始游戏"
+    }
+  }
+}

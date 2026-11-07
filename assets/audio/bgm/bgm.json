@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "tracks": [
+    {
+      "file": "wind_ambience.wav",
+      "title": "风中的旷野",
+      "artist": "",
+      "source": "tools/audio/bake_audio.py 合成",
+      "license": "随游戏发布",
+      "notes": "默认环境氛围，12 s 无缝循环；只有这一首时循环播放"
+    },
+    {
+      "file": "gtech.wav",
+      "title": "皇家萌卫",
+      "artist": "灵空GTech",
+      "source": "本地下载",
+      "license": "",
+      "notes": "",
+      "duration": 209.425,
+      "sample_rate": 44100,
+      "channels": 1,
+      "sha256": "ee5bfbc6a086bc738be3de7a7a3d4f1afe350f86bab08dabbd3b72634ac849cf",
+      "source_format": "mp3",
+      "imported_at": "2026-10-30T23:07:16"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ---- 打包 / 构建产物 ----
+dist/
+build/
+
+# ---- 开发过程产物 ----
+backup/
+art_preview/
+debug.log
+*.log
+
+# ---- IDE ----
+.idea/
+.vscode/
+
+# ---- 运行时用户数据（游戏运行时会变动，不入库）----
+custom/audio/active/
+custom/audio/library/backups/
+custom/backups/

@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "audio": {
+    "hit": [
+      "builtin:sfx/hit_3.wav",
+      "builtin:sfx/hit_1.wav",
+      "builtin:sfx/hit_4.wav",
+      "builtin:sfx/hit_6.wav",
+      "builtin:sfx/hit_2.wav",
+      "builtin:sfx/hit_5.wav"
+    ],
+    "wind_change": [
+      "builtin:sfx/wind_change.wav"
+    ],
+    "game_over": [
+      "builtin:sfx/game_over.wav"
+    ],
+    "pickup": [
+      "builtin:sfx/pickup.wav"
+    ],
+    "bgm": [
+      "builtin:bgm/gtech.wav"
+    ]
+  },
+  "bgm_auto_builtin": false
+}
